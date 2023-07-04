@@ -1,0 +1,8 @@
+body {
+  background-color: #6e7e85;
+}
+
+h1 {
+  font: italic bolder 3em arial;
+  /*font-style   ->   font-weight   ->   font-size   ->   font-family;*/
+}
